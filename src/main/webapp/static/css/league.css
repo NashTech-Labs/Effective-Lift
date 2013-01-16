@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+ body{
+  background-color: gray;
+ }
+ 
+ #logo{
+   background-image: url('../img/knol.png');
+   height: 100px;
+   width: 250px;
+   padding:10px;
+border:5px solid black;
+ }
+ 
+ #tools{
+  float: right;
+ }
+ 
+ #main-menu{
+ }
+ 
+ #banner{
+  background-image: url('../img/banner2.jpg');
+  height: 150px;
+  width:940px;
+  border:5px solid black;
+  
+ }
+ 
+ #contents{
+ }
