@@ -1,2 +1,2 @@
-Effective-Lift
-==============
+lift-blank-template
+===================
