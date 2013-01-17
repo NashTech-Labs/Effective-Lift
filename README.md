@@ -6,3 +6,9 @@ Effective Lift By Knoldus
 
 1. Create A Template
 2. Create Three Pages Home.html, About-us.html, Contact.html
+
+4. SiteMap Set UP
+   a. LocGroup
+   b. Loc Parameters like Hidden etc. 
+
+
